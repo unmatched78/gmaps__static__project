@@ -1,13 +1,4 @@
 # gmaps_static
-
-[![Rust](https://github.com/lmammino/gmaps-static/actions/workflows/Rust.yml/badge.svg)](https://github.com/lmammino/gmaps-static/actions/workflows/Rust.yml)
-[![codecov](https://codecov.io/gh/lmammino/gmaps-static/branch/main/graph/badge.svg?token=4CNbvgaDc1)](https://codecov.io/gh/lmammino/gmaps-static)
-[![crates.io badge](https://img.shields.io/crates/v/gmaps-static.svg)](https://crates.io/crates/gmaps-static)
-[![Documentation](https://docs.rs/gmaps-static/badge.svg)](https://docs.rs/gmaps-static)
-
-
-Work in progress...
-
 ## Example
 
 ```rust
@@ -62,15 +53,3 @@ https://maps.googleapis.com/maps/api/staticmap?size=400x300&center=Colosseo&scal
  - [ ] Proper crate documentation
  - [x] Examples
  - [ ] More test (support for all examples in the official docs)
-
-
-## Contributing
-
-Everyone is very welcome to contribute to this project.
-You can contribute just by submitting bugs or suggesting improvements by
-[opening an issue on GitHub](https://github.com/lmammino/gmaps-static/issues).
-
-
-## License
-
-Licensed under [MIT License](LICENSE). © Luciano Mammino.
