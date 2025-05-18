@@ -1,13 +1,8 @@
 [package]
 name = "gmaps-static"
 version = "0.0.1"
-authors = ["Luciano Mammino"]
-edition = "2021"
 description = "A URL builder for Google Maps Static APIs"
 keywords = ["google", "maps", "url", "builder", "static"]
-categories = ["api-bindings"]
-repository = "https://github.com/lmammino/gmaps-static"
-readme = "README.md"
 license = "MIT"
 
 [dependencies]
